@@ -54,8 +54,8 @@ class MainActivity : AppCompatActivity() {
         binding.recyclerView.layoutManager = GridLayoutManager(this, spanCount)
     }
 
-    override fun onSaveInstanceState(outState: Bundle?) {
-        outState?.putStringArrayList(KEY_SAVE_LIST, ArrayList(adapter.getList()))
+    override fun onSaveInstanceState(outState: Bundle) {
+        outState.putStringArrayList(KEY_SAVE_LIST, ArrayList(adapter.getList()))
         super.onSaveInstanceState(outState)
     }
 
