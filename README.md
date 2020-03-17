@@ -13,3 +13,7 @@ Gridリストをドラッグで並び替えるサンプルとして、
 - AndroidX
 - DataBinding
 - Kotlin
+
+#### Google Play
+
+<a href='https://play.google.com/store/apps/details?id=com.hnimrod.itemtouchhelpersample&utm_source=github'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png' width='300'/></a>
