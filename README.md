@@ -13,7 +13,7 @@ Gridリストをドラッグで並び替えるサンプルとして、
 ## 環境など
 
 - minSdkVersion 16
-- targetSdkVersion 33
+- targetSdkVersion 34
 - AndroidX
 - DataBinding
 - Kotlin
