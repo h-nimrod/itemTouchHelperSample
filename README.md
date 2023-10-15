@@ -10,7 +10,7 @@ This is a sample app for reordering a Grid list via drag-and-drop, implemented i
  
  ![](./figs/sample.gif)
  
-## nvironments
+## Environments
 
 - minSdkVersion 16
 - targetSdkVersion 34
